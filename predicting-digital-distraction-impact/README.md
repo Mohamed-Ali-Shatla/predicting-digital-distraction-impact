@@ -98,7 +98,7 @@
 
 ```bash
 pip install pandas numpy matplotlib seaborn plotly
-jupyter notebook Project_2.ipynb
+jupyter notebook predicting-digital-distraction-impact.ipynb
 ```
 
 تأكد من تعديل مسارات ملفات الـ CSV في أول خليتين ليطابقوا مكان الملفات عندك.
