@@ -8,9 +8,9 @@
 
 | الملف | الوصف |
 |---|---|
-| `Project_2.ipynb` | نوتبوك التحليل الكامل (50 خلية) |
-| `student_digital_life.csv` | الداتا سيت الأساسية (15,000 طالب) |
-| `predict_student_performance.csv` | داتا سيت ثانية (1,000 طالب) لاختبار تعميم النتائج |
+| `predicting-digital-distraction-impact.ipynb` | نوتبوك التحليل الكامل (50 خلية) |
+| `student_digital_life(First_data).csv` | الداتا سيت الأساسية (15,000 طالب) |
+| `predict_student_performance(Second_data).csv` | داتا سيت ثانية (1,000 طالب) لاختبار تعميم النتائج |
 
 ---
 
